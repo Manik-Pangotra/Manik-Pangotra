@@ -119,7 +119,7 @@
   <a href="https://www.instagram.com/_maanik06?igsh=MXc0Y2ZoNTR4dzRjeQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF7F7F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
-  <a href="mailto:workmaanik@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=workmaanik@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-FF2A2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
