@@ -46,7 +46,7 @@
       <a href="https://github.com/Manik-Pangotra" target="_blank" title="⚡ Click to visit Manik's GitHub Profile">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/profile_avatar.jpg">
-          <source media="(prefers-color-scheme: light)" srcset="assets/hero_banner.jpg">
+          <source media="(prefers-color-scheme: light)" srcset="assets/profile_avatar.jpg">
           <img src="assets/profile_avatar.jpg" width="92%" style="border-radius: 20px; border: 2px solid #FF2A2A; box-shadow: 0 0 25px rgba(255, 42, 42, 0.6); margin-bottom: 8px;" alt="Manik Pangotra Avatar" />
         </picture>
       </a>
