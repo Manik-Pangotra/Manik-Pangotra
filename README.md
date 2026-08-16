@@ -113,7 +113,7 @@
   <a href="https://www.linkedin.com/in/manik-pangotra-6a81a842a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF2A2A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://x.com/Manik7x" target="_blank">
     <img src="https://img.shields.io/badge/X-FF4D4D?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.instagram.com/manik_pangotra/" target="_blank">
