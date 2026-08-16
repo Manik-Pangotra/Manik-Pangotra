@@ -31,16 +31,15 @@
     <td width="65%" valign="top">
       <h3>✨ About Me</h3>
       <p>
-        Hi! I'm <b>Manik Pangotra</b>, a <b>Computer Science & Engineering</b> student specializing in <b>Artificial Intelligence & Machine Learning</b>. I am currently focusing on strengthening my core programming fundamentals, mastering Data Structures & Algorithms with C++, and building practical AI/ML and embedded software systems.
+        Hi! I'm <b>Manik Pangotra</b>, a <b>Computer Science & Engineering</b> student specializing in <b>Artificial Intelligence & Machine Learning</b>. I am currently focusing on strengthening my core programming fundamentals, mastering Data Structures & Algorithms with C++, and building practical embedded and intelligent systems.
       </p>
       <ul>
         <li>🎓 <b>Education:</b> Currently pursuing B.Tech in CSE (AI/ML) and entering my 2nd year.</li>
         <li>💻 <b>Current Focus:</b> Mastering Data Structures & Algorithms (DSA) and problem-solving using C++.</li>
-        <li>🤖 <b>AI & Machine Learning:</b> Exploring AI/ML workflows, computer vision, and real-world intelligent systems.</li>
-        <li>🚀 <b>Featured Project:</b> Developing <b>SpeedSense EV</b> — an AI-based intelligent speed governance system using YOLOv8 computer vision to detect speed-limit signs and control vehicle velocity dynamically.</li>
-        <li>🔧 <b>Embedded & Hardware:</b> Integrating AI models with embedded hardware such as Raspberry Pi, ESP32, GPS modules, and motor control.</li>
+        <li>🚗 <b>Featured Project:</b> Developed a <b>Car Water Safety System</b> — an Arduino-based emergency vehicle safety system designed to facilitate rapid passenger escape from a submerged vehicle. The system detects water ingress in real time and automatically executes critical safety routines: releasing the seatbelt, lowering the car window, and deploying/inflating an emergency life jacket using water sensors, servo motors, and a relay module.</li>
+        <li>🔧 <b>Embedded & Hardware:</b> Hands-on experience with embedded systems and hardware prototyping using Arduino, ESP32, sensors, servo actuators, and relay modules.</li>
         <li>📚 <b>Engineering Philosophy:</b> Focused on understanding core fundamentals and practical engineering rather than surface-level tech stacks.</li>
-        <li>🎯 <b>Long-Term Goal:</b> Aspiring Software Engineer building strong technical capabilities to excel in competitive programming, software engineering placements, and target top tech companies like Microsoft.</li>
+        <li>🎯 <b>Long-Term Goal:</b> Aspiring Software Engineer building strong technical capabilities to excel in competitive programming, software engineering placements, and top tech companies.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -62,7 +61,7 @@
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center">
-  <i>Developing strong core capabilities across Data Structures & Algorithms, C++, AI/ML, Embedded Systems, and Software Engineering.</i>
+  <i>Developing strong core capabilities across Data Structures & Algorithms, C++, Embedded Systems, and Software Engineering.</i>
 </p>
 
 <div align="center">
@@ -75,9 +74,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20C%20%7C%20Python%20%7C%20SQL-FF2A2A?style=flat-square&logoColor=white" alt="Languages" />
-  <img src="https://img.shields.io/badge/AI_%26_Machine_Learning-PyTorch%20%7C%20YOLO%2FUltralytics%20%7C%20OpenCV%20%7C%20NumPy%20%7C%20Pandas%20%7C%20Scikit--learn-FF4D4D?style=flat-square&logoColor=white" alt="AI & ML" />
-  <img src="https://img.shields.io/badge/Development_%26_Tools-Git%20%7C%20GitHub%20%7C%20VSCode%20%7C%20Jupyter%20%7C%20Google%20Colab-FF7F7F?style=flat-square&logoColor=black" alt="Development Tools" />
-  <img src="https://img.shields.io/badge/Embedded_%26_Hardware-ESP32%20%7C%20Arduino%20%7C%20Raspberry%20Pi%20%7C%20PlatformIO-E50914?style=flat-square&logoColor=white" alt="Embedded Hardware" />
+  <img src="https://img.shields.io/badge/Embedded_%26_Hardware-Arduino%20%7C%20ESP32%20%7C%20Sensors%20%7C%20Servo%20Motors%20%7C%20Relays-FF4D4D?style=flat-square&logoColor=white" alt="Embedded Hardware" />
+  <img src="https://img.shields.io/badge/Development_%26_Tools-Git%20%7C%20GitHub%20%7C%20VSCode%20%7C%20Jupyter-FF7F7F?style=flat-square&logoColor=black" alt="Development Tools" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-D32F2F?style=flat-square&logoColor=white" alt="Database" />
 </div>
 
@@ -97,33 +95,17 @@
 
 <br>
 
-<!-- <h2 align="center">🐍 Contribution Snake</h2> -->
-
-<!--
-================================================================================
-  GITHUB ACTION FOR CONTRIBUTION SNAKE GRAPH
-  This snake animation is automatically updated daily via GitHub Actions.
-  The workflow definition is located at `.github/workflows/snake.yml`.
-================================================================================
--->
-
-<!-- <div align="center">
-  <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 8px; border: 1px solid #FF2A2A; box-shadow: 0 0 15px rgba(255, 42, 42, 0.3);" />
-</div>
-
-<br> -->
-
-
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-
-  
-  ![snake gif](https://github.com/Manik-Pangotra/Manik-Pangotra/blob/output/github-snake-dark.svg)
-
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manik-Pangotra/Manik-Pangotra/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manik-Pangotra/Manik-Pangotra/output/github-snake.svg">
+    <img src="assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" style="border-radius: 8px; border: 1px solid #FF2A2A; box-shadow: 0 0 15px rgba(255, 42, 42, 0.3);" />
+  </picture>
 </div>
 
-
+<br>
 
 <h2 align="center">📫 Let's Connect & Collaborate</h2>
 
@@ -151,12 +133,3 @@
     <img alt="Footer Waving Render" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#8B0000&custom_color_2=#0D1117&height=120&section=footer" width="100%">
   </picture>
 </div>
-
-
-<!-- <div align="center">
-
-  
-  ![snake gif](https://github.com/Manik-Pangotra/Manik-Pangotra/blob/output/github-snake-dark.svg)
-
-  
-</div> -->
