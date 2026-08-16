@@ -1,0 +1,42 @@
+name: GitHub Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+          outputs: |
+            dist/github-snake.svg?color_snake=white&color_dots=#161B22,#5C0A0A,#8B1111,#C91C1C,#FF2A2A
+            dist/github-snake-dark.svg?color_snake=white&color_dots=#0D1117,#5C0A0A,#8B1111,#C91C1C,#FF2A2A
+            dist/ocean.gif?color_snake=white&color_dots=#161B22,#5C0A0A,#8B1111,#C91C1C,#FF2A2A
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update snake animation colors [skip ci]"
