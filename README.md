@@ -116,7 +116,7 @@
   <a href="https://x.com/Manik7x" target="_blank">
     <img src="https://img.shields.io/badge/X-FF4D4D?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.instagram.com/manik_pangotra/" target="_blank">
+  <a href="https://www.instagram.com/_maanik06?igsh=MXc0Y2ZoNTR4dzRjeQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF7F7F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
   <a href="mailto:workmaanik@gmail.com">
