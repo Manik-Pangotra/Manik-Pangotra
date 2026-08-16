@@ -1,4 +1,4 @@
-# 🚀 GitHub Profile README - Setup Instructions for Shubham Chowdhury
+# 🚀 GitHub Profile README - Setup Instructions for Manik Pangotra
 
 Welcome to your new modern, aesthetic, pink-themed GitHub Profile README!
 
@@ -8,20 +8,20 @@ Welcome to your new modern, aesthetic, pink-themed GitHub Profile README!
 
 ### Step 1: Create Your Profile Repository
 1. Go to [GitHub New Repository](https://github.com/new).
-2. Set the repository name to exactly match your GitHub username: `shubhamchowdhury`.
-   - *Note: GitHub will show a special box: "You found a secret! `shubhamchowdhury/shubhamchowdhury` is a ✨special✨ repository that you can use to add a README.md to your GitHub profile."*
+2. Set the repository name to exactly match your GitHub username: `Manik-Pangotra`.
+   - *Note: GitHub will show a special box: "You found a secret! `Manik-Pangotra/Manik-Pangotra` is a ✨special✨ repository that you can use to add a README.md to your GitHub profile."*
 3. Make sure the repository is **Public**.
 4. Check **"Add a README file"**.
 
 ### Step 2: Push Your Files
-1. Copy the generated `README.md` into your `shubhamchowdhury` repository root.
+1. Copy the generated `README.md` into your `Manik-Pangotra` repository root.
 2. Copy the `.github/workflows/snake.yml` file into `.github/workflows/snake.yml` inside your repository.
 3. Commit and push the changes.
 
 ---
 
 ## 🐍 Activating the Contribution Snake Workflow
-1. Go to your `shubhamchowdhury` repository on GitHub.
+1. Go to your `Manik-Pangotra` repository on GitHub.
 2. Navigate to **Settings** > **Actions** > **General**.
 3. Scroll down to **Workflow permissions** and select **Read and write permissions**.
 4. Save the settings.

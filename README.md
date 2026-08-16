@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero_animation.gif" alt="Shubham Chowdhury Hero Animation" width="100%" style="border-radius: 12px; width: 100%; height: 280px; max-height: 280px; object-fit: cover; box-shadow: 0 8px 32px rgba(255, 42, 42, 0.4);" />
+  <img src="assets/hero_animation.gif" alt="Manik Pangotra Hero Animation" width="100%" style="border-radius: 12px; width: 100%; height: 280px; max-height: 280px; object-fit: cover; box-shadow: 0 8px 32px rgba(255, 42, 42, 0.4);" />
 </div>
 
 <br>
@@ -13,14 +13,14 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Shubham-Chowdhury">
-    <img src="https://komarev.com/ghpvc/?username=Shubham-Chowdhury&color=FF2A2A&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/Manik-Pangotra">
+    <img src="https://komarev.com/ghpvc/?username=Manik-Pangotra&color=FF2A2A&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
-  <a href="https://github.com/Shubham-Chowdhury?tab=followers">
-    <img src="https://img.shields.io/github/followers/Shubham-Chowdhury?label=FOLLOWERS&logo=github&style=for-the-badge&color=FF4D4D&labelColor=1F1F1F" alt="GitHub Followers" />
+  <a href="https://github.com/Manik-Pangotra?tab=followers">
+    <img src="https://img.shields.io/github/followers/Manik-Pangotra?label=FOLLOWERS&logo=github&style=for-the-badge&color=FF4D4D&labelColor=1F1F1F" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/Shubham-Chowdhury?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Shubham-Chowdhury?label=TOTAL+STARS&logo=github&style=for-the-badge&color=FF7F7F&labelColor=1F1F1F" alt="GitHub Stars" />
+  <a href="https://github.com/Manik-Pangotra?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Manik-Pangotra?label=TOTAL+STARS&logo=github&style=for-the-badge&color=FF7F7F&labelColor=1F1F1F" alt="GitHub Stars" />
   </a>
 </div>
 
@@ -31,7 +31,7 @@
     <td width="65%" valign="top">
       <h3>✨ About Me</h3>
       <p>
-        Hi! I'm <b>Shubham Chowdhury</b>, a <b>Computer Science & Engineering</b> student specializing in <b>Artificial Intelligence & Machine Learning</b>. I am currently focusing on strengthening my core programming fundamentals, mastering Data Structures & Algorithms with C++, and building practical AI/ML and embedded software systems.
+        Hi! I'm <b>Manik Pangotra</b>, a <b>Computer Science & Engineering</b> student specializing in <b>Artificial Intelligence & Machine Learning</b>. I am currently focusing on strengthening my core programming fundamentals, mastering Data Structures & Algorithms with C++, and building practical AI/ML and embedded software systems.
       </p>
       <ul>
         <li>🎓 <b>Education:</b> Currently pursuing B.Tech in CSE (AI/ML) and entering my 2nd year.</li>
@@ -44,11 +44,11 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <a href="https://github.com/Shubham-Chowdhury" target="_blank" title="⚡ Click to visit Shubham's GitHub Profile">
+      <a href="https://github.com/Manik-Pangotra" target="_blank" title="⚡ Click to visit Manik's GitHub Profile">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/profile_avatar.jpg">
           <source media="(prefers-color-scheme: light)" srcset="assets/hero_banner.jpg">
-          <img src="assets/profile_avatar.jpg" width="92%" style="border-radius: 20px; border: 2px solid #FF2A2A; box-shadow: 0 0 25px rgba(255, 42, 42, 0.6); margin-bottom: 8px;" alt="Shubham Chowdhury Avatar" />
+          <img src="assets/profile_avatar.jpg" width="92%" style="border-radius: 20px; border: 2px solid #FF2A2A; box-shadow: 0 0 25px rgba(255, 42, 42, 0.6); margin-bottom: 8px;" alt="Manik Pangotra Avatar" />
         </picture>
       </a>
       <br>
@@ -86,13 +86,13 @@
 <h2 align="center">📊 GitHub Activity & Statistics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Chowdhury&theme=dark&background=0D1117&ring=FF2A2A&fire=FF4D4D&currStreakNum=FF2A2A&sideNums=FF7F7F&sideTitle=FF2A2A&dates=FF7F7F&border=FF2A2A&hide_border=false" alt="GitHub Streak" width="100%" style="max-width: 600px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manik-Pangotra&theme=dark&background=0D1117&ring=FF2A2A&fire=FF4D4D&currStreakNum=FF2A2A&sideNums=FF7F7F&sideTitle=FF2A2A&dates=FF7F7F&border=FF2A2A&hide_border=false" alt="GitHub Streak" width="100%" style="max-width: 600px;" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Chowdhury&theme=react-dark&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&title_color=FF2A2A&line=FF2A2A&point=FF4D4D&area=true&area_color=FF7F7F" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manik-Pangotra&theme=react-dark&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&title_color=FF2A2A&line=FF2A2A&point=FF4D4D&area=true&area_color=FF7F7F" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
@@ -118,7 +118,7 @@
 <div align="center">
 
   
-  ![snake gif](https://github.com/Shubham-Chowdhury/Shubham-Chowdhury/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Manik-Pangotra/Manik-Pangotra/blob/output/github-snake-dark.svg)
 
   
 </div>
@@ -128,16 +128,16 @@
 <h2 align="center">📫 Let's Connect & Collaborate</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shubham-141013-chowdhury/" target="_blank">
+  <a href="https://www.linkedin.com/in/manik-pangotra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF2A2A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/X-FF4D4D?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.instagram.com/10__shubham__10/?hl=en" target="_blank">
+  <a href="https://www.instagram.com/manik_pangotra/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF7F7F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram" />
   </a>
-  <a href="mailto:laptop.sc.me@gmail.com">
+  <a href="mailto:workmaanik@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF2A2A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -156,7 +156,7 @@
 <!-- <div align="center">
 
   
-  ![snake gif](https://github.com/Shubham-Chowdhury/Shubham-Chowdhury/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Manik-Pangotra/Manik-Pangotra/blob/output/github-snake-dark.svg)
 
   
 </div> -->
